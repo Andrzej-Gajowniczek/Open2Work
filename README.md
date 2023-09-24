@@ -18,14 +18,9 @@ I hope you'll like it. I was inspired by early '80 assembly demos on Atari 800XL
 ZX Spectrum and Commodore64. 
 Unfortunately termbox lacking of wait for vertical retrace and hardware scrolling 
 like this lovely one on Atari and Commodore but hello :P 
-this is terminal - text only which runs on remote server on Oracle Claud Platform 
-vm with one core free of charge ARM processor much slower than raspberry pi nowadays XD
 
-To access the demo please login ssh client executing command:
- ssh GoWithAndy@132.145.70.95
-pass: 19390901
 
-Video recorded from the demo: https://rumble.com/v32s580-july-27-2023.html
+Video recorded from the demo: https://youtu.be/89G11yxL6i8?si=dls4_QfA0hRYyW06&t=6
 
 
 Good luck and remember : Go With Andy!

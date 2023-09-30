@@ -17,7 +17,7 @@ I wrote a simple scroller to demonstrate the magic behind the termbox.
 I hope you'll like it. I was inspired by early '80 assembly demos on Atari 800XL, 
 ZX Spectrum and Commodore64. 
 Unfortunately termbox lacking of wait for vertical retrace and hardware scrolling 
-like this lovely one on Atari and Commodore but hello :P 
+like this lovely one on Atari and Commodore.
 
 
 Video recorded from the demo: https://youtu.be/89G11yxL6i8?si=dls4_QfA0hRYyW06&t=6
